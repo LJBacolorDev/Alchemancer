@@ -16,3 +16,5 @@ John Dilay (Lead Programmer)
 Jeremy Salvio (Game Designer)
 
 Francis Santos (Level Designer)
+
+https://secnero-games.itch.io/alchemancer-master-of-elements
