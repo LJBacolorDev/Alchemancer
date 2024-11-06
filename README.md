@@ -10,6 +10,9 @@ This game was developed by a dedicated group of students as part of their capsto
 Credits:
 
 Lyndon Bacolor (Project Manager)
+
 John Dilay (Lead Programmer)
+
 Jeremy Salvio (Game Designer)
+
 Francis Santos (Level Designer)
